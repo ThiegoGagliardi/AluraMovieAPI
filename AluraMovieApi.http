@@ -1,0 +1,6 @@
+@AluraFilmeApi_HostAddress = http://localhost:5262
+
+GET {{AluraFilmeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
